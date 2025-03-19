@@ -9,4 +9,4 @@ Test Program
 
 print ("Hi there, my name is Jungyeon Lee")
 print ("My GitHub username is jungyeon2eo")
-print("Testing a program change")
+print("Testing a program chang")
